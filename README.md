@@ -1,4 +1,4 @@
-Symfony 5.4 + docker + docker-compose
+Symfony 6.1 + docker + docker-compose
 
 Commands
 
